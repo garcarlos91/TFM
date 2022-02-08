@@ -21,17 +21,17 @@ Para terminar, expondremos los resultados obtenidos en un informe, comparándolo
 ## 2. Fuentes de datos
 
 
-   2.1 Climatología
+   2.1 *Climatología*
    
-   2.2 Población
+   2.2 *Población*
    
-   2.3 PIB per cápita
+   2.3 *PIB per cápita*
    
-   2.4 Número de viviendas
+   2.4 *Número de viviendas*
    
-   2.5 Consumo de energía eléctrica per cápita
+   2.5 *Consumo de energía eléctrica per cápita*
    
-   2.6 Precio del KWh
+   2.6 *Precio del KWh*
    
    
 ## 3.
