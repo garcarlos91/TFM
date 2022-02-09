@@ -72,6 +72,9 @@ Este apartado lo hemos realizado con un **dashboard de Tableau** compuesto de tr
    
 En la última pestaña, podremos crearnos un informe 'a la carta' con todos los datos.
 
+El informe está subido a Tableau Online (https://sso.online.tableau.com/public/idp/SSO). Para poder acceder se ha enviado un
+archivo con los datos necesarios.
+
 ## 6. Conclusión 
 
 Con este proyecto, hemos podido desarrollar con claridad los distintos puntos de los que se compone la ciencia de datos.
