@@ -34,4 +34,28 @@ Para terminar, expondremos los resultados obtenidos en un informe, comparándolo
    2.6 *Precio del KWh*
    
    
-## 3.
+## 3. Comparación de modelos
+
+   
+   3.1 *Regresión Lineal (LR)*
+
+   3.2 *K Nearest Neighbours (KNN)*
+
+   3.3 *Random Forest (RF)*
+
+   3.4 *Gradient Boosting Tree (GBT)*
+
+   3.5 *Stacking 1 (Regresión Lineal + Random Forest)*
+   
+   3.6 *Stacking 2 (Random Forest + Gradient Boosting Trees)*
+
+
+
+![Comparación](https://user-images.githubusercontent.com/82395947/153264194-23ec30d5-f6e1-4f43-abcd-a51366512826.PNG)
+
+
+## 4. Predicciones
+
+Comparamos las predicciones resultantes con los valores reales del año 2018.
+
+![Predicciones](https://user-images.githubusercontent.com/82395947/153264508-89fa10dc-df1d-41e5-a198-162f5c9186f2.PNG)
