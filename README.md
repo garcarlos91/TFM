@@ -78,7 +78,7 @@ archivo con los datos necesarios.
 ## 6. Conclusión 
 
 Con este proyecto, hemos podido desarrollar con claridad los distintos puntos de los que se compone la ciencia de datos.
-El RMSE del modelo con los datos que hemos separado al principio, los del año 2018, es de 506.50 KWh, un buen resultado para un modelo que, en un principio, tiene dificultades para extrapolar fuera del rango de entrenamiento.
+El RMSE del modelo con los datos que hemos separado al principio, los del año 2018, es de 506,50 KWh, un buen resultado para un modelo que, en un principio, tiene dificultades para extrapolar fuera del rango de entrenamiento.
 
 ## 7. Entorno
 
