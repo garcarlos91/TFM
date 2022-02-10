@@ -5,7 +5,7 @@
 
 ## 1. Objetivos
 
-El objetivo de este TFM es averiguar cuáles son los **factores** de los que dependen el **consumo eléctrico** para poder predecir el consumo anual per cápita en KWh, aplicando distintas técnicas de Machine Learning.
+El objetivo de este TFM es averiguar cuáles son los factores de los que dependen el **consumo eléctrico** para poder **predecir** el consumo anual per cápita en KWh, aplicando distintas técnicas de Machine Learning.
 
 El primer paso, será **obtener información** de cómo funciona el mercado eléctrico español y como se gestiona la demanda y la producción de energía. Con esta información seremos capaces de saber qué factores afectan, en mayor o menos medida, al consumo eléctrico.
 
